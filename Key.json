@@ -2,8 +2,8 @@
   "dialog_config": {
     "title": "Premium DPMods Login ",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#0000FF",
-    "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
+    "background_color_hex": "#00FFFF",
+    "profile_image_url": "https://i.postimg.cc/7LTBrDCc/1000280038.png",
     "button_login_text": "Login",
     "button_contact_text": "Admin Contact",
     "admin_contact_url": "https://t.me/dp_mods"
@@ -11,7 +11,7 @@
   "status_config": {
     "maintenance_enabled": true,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
-    "force_show_enabled": false,
+    "force_show_enabled": true,
     "remote_check_interval_ms": 30000,
     "dialog_show_interval_ms": 7200000,
     "auth_success_toast": "Login successful! Welcome to the premium features.",
