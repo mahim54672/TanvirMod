@@ -30,6 +30,12 @@
       "password": "pass456",
       "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
       "expiry_date_utc": "2025-12-31"
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "device_id": "b1756454-2223-4b3d-a8e4-9b474fea5502",
+      "expiry_date_utc": "2025-10-31"
     }
   ]
 }
