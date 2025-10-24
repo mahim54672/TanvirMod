@@ -2,7 +2,7 @@
   "dialog_config": {
     "title": "Premium DPMods Login ",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#FFFFFF",
+    "background_color_hex": "#0000FF",
     "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
     "button_login_text": "Login",
     "button_contact_text": "Admin Contact",
