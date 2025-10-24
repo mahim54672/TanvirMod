@@ -9,9 +9,9 @@
     "admin_contact_url": "mdtanvirulislam.netlify.app"
   },
   "status_config": {
-    "maintenance_enabled": false,
+    "maintenance_enabled": true,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
-    "force_show_enabled": false,
+    "force_show_enabled": true,
     "remote_check_interval_ms": 30000,
     "dialog_show_interval_ms": 7200000,
     "auth_success_toast": "Login successful! Welcome to the premium features.",
